@@ -259,7 +259,7 @@ export const Home = ({
                                 <Headshot fluid={homeHeadshot.childImageSharp.fluid} alt="Robert Cooper's headshot" />
                             </HeadshotWrapper>
                             <Intro data-aos="fade-up">
-                                <IntroTitle>I'm Robert Cooper,</IntroTitle>
+                                <IntroTitle>Commercialista a Catania,</IntroTitle>
                                 <IntroDescription>
                                     a front end web developer that <strong>writes web development</strong> articles and
                                     works as a <strong>freelancer</strong> to clients who need front end development

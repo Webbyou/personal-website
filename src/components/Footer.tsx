@@ -54,7 +54,7 @@ const FooterComponent = ({  }: FooterProps) => {
                 <Title>Robert Cooper</Title>
                 <SocialMediaList>
                     <SocialMediaListItem>
-                        <SocialMediaLink to="https://www.linkedin.com/in/robert-cooper/">LinkedIn</SocialMediaLink>
+                        <SocialMediaLink to="https://www.linkedin.com/">LinkedIn</SocialMediaLink>
                     </SocialMediaListItem>
                     <SocialMediaListItem>
                         <SocialMediaLink to="mailto:info@sdgp.it">Email</SocialMediaLink>

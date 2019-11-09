@@ -256,10 +256,10 @@ export const Home = ({
                     <Header>
                         <HeaderWrapper>
                             <HeadshotWrapper data-aos="fade-right" data-aos-delay="200">
-                                <Headshot fluid={homeHeadshot.childImageSharp.fluid} alt="Robert Cooper's headshot" />
+                                <Headshot fluid={homeHeadshot.childImageSharp.fluid} alt="Commercialista a Catania" />
                             </HeadshotWrapper>
                             <Intro data-aos="fade-up">
-                                <IntroTitle>Commercialista a Catania,</IntroTitle>
+                                <IntroTitle>IVA piccole e medie imprese </IntroTitle>
                                 <IntroDescription>
                                     a front end web developer that <strong>writes web development</strong> articles and
                                     works as a <strong>freelancer</strong> to clients who need front end development

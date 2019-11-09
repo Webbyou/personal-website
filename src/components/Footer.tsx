@@ -57,18 +57,9 @@ const FooterComponent = ({  }: FooterProps) => {
                         <SocialMediaLink to="https://www.linkedin.com/in/robert-cooper/">LinkedIn</SocialMediaLink>
                     </SocialMediaListItem>
                     <SocialMediaListItem>
-                        <SocialMediaLink to="https://github.com/robertcoopercode">Github</SocialMediaLink>
+                        <SocialMediaLink to="mailto:info@sdgp.it">Email</SocialMediaLink>
                     </SocialMediaListItem>
-                    <SocialMediaListItem>
-                        <SocialMediaLink to="https://twitter.com/RobertCooper_RC">Twitter</SocialMediaLink>
-                    </SocialMediaListItem>
-                    <SocialMediaListItem>
-                        <SocialMediaLink to="mailto:hi@robertcooper.me">Email</SocialMediaLink>
-                    </SocialMediaListItem>
-                    <SocialMediaListItem>
-                        <SocialMediaLink to="https://www.robertcooper.me/rss.xml">RSS</SocialMediaLink>
-                    </SocialMediaListItem>
-                </SocialMediaList>
+                  </SocialMediaList>
             </ModifiedPageWrapper>
         </Footer>
     );
